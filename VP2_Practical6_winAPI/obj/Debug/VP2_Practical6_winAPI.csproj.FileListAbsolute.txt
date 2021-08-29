@@ -1,0 +1,10 @@
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\bin\Debug\VP2_Practical6_winAPI.exe.config
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\bin\Debug\VP2_Practical6_winAPI.exe
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\bin\Debug\VP2_Practical6_winAPI.pdb
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.csprojAssemblyReference.cache
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.Form1.resources
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.Properties.Resources.resources
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.csproj.GenerateResource.cache
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.csproj.CoreCompileInputs.cache
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.exe
+E:\Madhushi\Visual Programming 2\VP2_Practical6_winAPI\obj\Debug\VP2_Practical6_winAPI.pdb
